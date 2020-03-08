@@ -30,7 +30,7 @@
     },
     "repoUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/microsoft/TailwindTraders-Website"
+      "defaultValue": "https://github.com/WildRookie/TailwindTraders-Website"
     },
     "branch": {
       "type": "string",
